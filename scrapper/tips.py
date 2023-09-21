@@ -12,6 +12,8 @@ def my_tips(id):
     main_data = data.get("response")["tips"]["items"]
     tips_count = data.get("response")["tips"]["count"]
     
+    
+    ##Tips Dictionary...
     tips_Query = {
         "Tips:": []
     }
@@ -32,12 +34,10 @@ def my_tips(id):
            tips_Query["Tips:"].append(my_Dict)
            print(" ")
            counter = counter + 1
-      
-        obj_conn.index(index='squarefour' ,doc_type='doc' ,body=tips_Query)   
+           
     else:
         print("No followers..")
-
-
+    return tips_Query
 
 if(__name__=='__main__'):
     my_tips('6677827')

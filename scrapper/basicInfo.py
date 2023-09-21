@@ -12,6 +12,8 @@ def basic(userName):
     soup = BeautifulSoup(response.content , "html.parser")
     all = soup.find_all('span' , class_="stat")
     
+    
+    ###Dictionary  ........
     basicDict = {
         "Basic Information:":[]
     }       
@@ -24,7 +26,8 @@ def basic(userName):
           basicDict["Basic Information:"].append(all_info.text)
     else:
         print("no user found")
-    obConn.index(index='squarefour' , doc_type='doc' ,body=basicDict)
+    return basicDict
+    
     
 
 if(__name__=='__main__'):

@@ -15,7 +15,7 @@ def myList_info(userName):
     print(" ")
     print(Fore.LIGHTCYAN_EX+"List of Places That "+Fore.LIGHTGREEN_EX+userName+Fore.BLUE+" Liked:")
    
-   
+   ##lists Dictionary...
     places_Liked = {
         "Places Liked":[]
     }
@@ -33,7 +33,7 @@ def myList_info(userName):
         places_Liked["Places Liked"].append(places_list[i]+" Location : "+places_address[i])
         print(Fore.LIGHTGREEN_EX+places_list[i]+Fore.LIGHTBLUE_EX+" Location : "+Fore.LIGHTGREEN_EX+places_address[i])
     
-    ob_conn.index(index='squarefour' , doc_type='doc' ,body=places_Liked)
+    return places_Liked
 
 if(__name__=='__main__'):
     myList_info('hwilliams10')

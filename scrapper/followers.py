@@ -26,6 +26,8 @@ def my_followers(id):
             lastName = user.get("lastName")
             homeCity = user.get("homeCity")
             
+            
+            #Followers Dictionary...
             foll_dict = {
                 "First Name:":firstName,
                 "Last Name:":lastName,
@@ -40,13 +42,9 @@ def my_followers(id):
                 print(str(counter)+"."+Fore.LIGHTMAGENTA_EX+firstName+Fore.LIGHTBLUE_EX+" Home-City : "+homeCity)
                 
             counter = counter +1
-        
-        obConn.index(index='squarefour' , doc_type='doc' ,body=myFollower_list)
-        
     else:
         print("No followers..")
-
-
+    return myFollower_list
 
 if(__name__=='__main__'):
     my_followers('6677827')

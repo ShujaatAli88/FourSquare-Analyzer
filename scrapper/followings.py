@@ -12,6 +12,8 @@ def my_followings(id):
     data = json.loads(response.content)
     main_data = data.get("response")["following"]["items"]
     
+    
+    #Following Dictionary...
     following_list = {
         "following":[]
     }
@@ -40,12 +42,10 @@ def my_followings(id):
                 print(str(counter)+"."+Fore.LIGHTMAGENTA_EX+firstName+Fore.LIGHTBLUE_EX+" Home-City : "+homeCity)
             counter = counter +1
         
-        myOb.index(index='squarefour' , doc_type='doc' , body=following_list)
-        
     else:
         print("No followers..")
 
-
+    return following_list
 
 if(__name__=='__main__'):
     my_followings('6677827')
