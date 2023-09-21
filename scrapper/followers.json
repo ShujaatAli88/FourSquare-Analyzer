@@ -1,0 +1,1027 @@
+{
+    "meta": {
+        "code": 200,
+        "requestId": "650c0ec2d977470b7fd57203"
+    },
+    "notifications": [
+        {
+            "type": "notificationTray",
+            "item": {
+                "unreadCount": 0
+            }
+        }
+    ],
+    "response": {
+        "tips": {
+            "count": 7,
+            "items": [
+                {
+                    "id": "50b42022498e0d9478d35984",
+                    "createdAt": 1353981986,
+                    "text": "Spicy garlic lemon chicken - you have to try it & get extra garlic sauce - Yum!",
+                    "entities": [
+                        {
+                            "indices": [
+                                0,
+                                5
+                            ],
+                            "id": "5310f8644b90130f9453ccdd",
+                            "type": "tip_taste_match",
+                            "text": "spicy food"
+                        },
+                        {
+                            "indices": [
+                                6,
+                                12
+                            ],
+                            "id": "52db1e24498e903b1d5961ef",
+                            "type": "tip_taste_match",
+                            "text": "garlic"
+                        },
+                        {
+                            "indices": [
+                                13,
+                                26
+                            ],
+                            "id": "52cc5706498ebfac7f1d0911",
+                            "type": "tip_taste_match",
+                            "text": "lemon chicken"
+                        },
+                        {
+                            "indices": [
+                                60,
+                                72
+                            ],
+                            "id": "52cc5708498ec8fe9f4820eb",
+                            "type": "tip_taste_match",
+                            "text": "garlic sauce"
+                        }
+                    ],
+                    "type": "user",
+                    "canonicalUrl": "https:\/\/foursquare.com\/item\/50b42022498e0d9478d35984",
+                    "canonicalPath": "\/item\/50b42022498e0d9478d35984",
+                    "likes": {
+                        "count": 0,
+                        "groups": []
+                    },
+                    "like": false,
+                    "logView": true,
+                    "saves": {
+                        "count": 0,
+                        "groups": []
+                    },
+                    "agreeCount": 1,
+                    "disagreeCount": 0,
+                    "venue": {
+                        "id": "4bbb81a2e436ef3b7d6b5564",
+                        "name": "Chicken Maisón",
+                        "location": {
+                            "address": "3332 S Bristol St",
+                            "crossStreet": "at Alton Ave",
+                            "lat": 33.703379744710595,
+                            "lng": -117.88592340724377,
+                            "labeledLatLngs": [
+                                {
+                                    "label": "display",
+                                    "lat": 33.703379744710595,
+                                    "lng": -117.88592340724377
+                                }
+                            ],
+                            "postalCode": "92704",
+                            "cc": "US",
+                            "neighborhood": "South Coast",
+                            "city": "Santa Ana",
+                            "state": "CA",
+                            "country": "United States",
+                            "contextLine": "Santa Ana, United States",
+                            "contextGeoId": 72057594043320836,
+                            "formattedAddress": [
+                                "<span itemprop=\"streetAddress\">3332 S Bristol St<\/span> (at Alton Ave)",
+                                "<span itemprop=\"addressLocality\">Santa Ana<\/span>, <span itemprop=\"addressRegion\">CA<\/span> <span itemprop=\"postalCode\">92704<\/span>",
+                                "United States"
+                            ]
+                        },
+                        "canonicalUrl": "https:\/\/foursquare.com\/v\/chicken-mais%C3%B3n\/4bbb81a2e436ef3b7d6b5564",
+                        "canonicalPath": "\/v\/chicken-mais%C3%B3n\/4bbb81a2e436ef3b7d6b5564",
+                        "categories": [
+                            {
+                                "id": "4bf58dd8d48988d1c0941735",
+                                "name": "Mediterranean Restaurant",
+                                "pluralName": "Mediterranean Restaurants",
+                                "shortName": "Mediterranean",
+                                "icon": {
+                                    "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/mediterranean_",
+                                    "mapPrefix": "https:\/\/ss3.4sqi.net\/img\/categories_map\/food\/default",
+                                    "suffix": ".png"
+                                },
+                                "primary": true
+                            }
+                        ],
+                        "verified": false,
+                        "stats": {
+                            "tipCount": 36,
+                            "usersCount": 1302,
+                            "checkinsCount": 3286
+                        },
+                        "price": {
+                            "tier": 2,
+                            "message": "Moderate",
+                            "currency": "$"
+                        },
+                        "hasMenu": true,
+                        "rating": 7.4,
+                        "ratingColor": "C5DE35",
+                        "ratingSignals": 114,
+                        "menu": {
+                            "type": "Menu",
+                            "label": "Menu",
+                            "anchor": "View Menu",
+                            "url": "https:\/\/foursquare.com\/v\/chicken-mais%C3%B3n\/4bbb81a2e436ef3b7d6b5564\/menu",
+                            "mobileUrl": "https:\/\/foursquare.com\/v\/4bbb81a2e436ef3b7d6b5564\/device_menu",
+                            "canonicalPath": "\/v\/chicken-mais%C3%B3n\/4bbb81a2e436ef3b7d6b5564\/menu"
+                        },
+                        "allowMenuUrlEdit": true,
+                        "beenHere": {
+                            "lastCheckinExpiredAt": 0
+                        },
+                        "photos": {
+                            "count": 0,
+                            "groups": [
+                                {
+                                    "type": "venue",
+                                    "name": "Venue photos",
+                                    "count": 0,
+                                    "items": [
+                                        {
+                                            "id": "647973b39ddb695cd0ae975f",
+                                            "createdAt": 1685681075,
+                                            "prefix": "https:\/\/fastly.4sqi.net\/img\/general\/",
+                                            "suffix": "\/2301705_4T1N5cnZhtg5NdwnbJgPy1BKhKKeZUtHHLM9LtrYLQQ.jpg",
+                                            "width": 1080,
+                                            "height": 1080,
+                                            "visibility": "public"
+                                        },
+                                        {
+                                            "id": "6465242587fb4b6ba8fde210",
+                                            "createdAt": 1684349989,
+                                            "prefix": "https:\/\/fastly.4sqi.net\/img\/general\/",
+                                            "suffix": "\/94500629_thYlwjj_F-1BYLHNopOVaAnRWZIPLOaPYNKHUXhQRgg.jpg",
+                                            "width": 1440,
+                                            "height": 1920,
+                                            "visibility": "public"
+                                        },
+                                        {
+                                            "id": "63bf106b29a4f53b38469ed9",
+                                            "createdAt": 1673465963,
+                                            "prefix": "https:\/\/fastly.4sqi.net\/img\/general\/",
+                                            "suffix": "\/94500629_mMP778n3VdX3ZSPzat3YhgYEfkerSboIJg0QWvj8XzI.jpg",
+                                            "width": 1440,
+                                            "height": 1920,
+                                            "visibility": "public"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "createdAt": 1270579618,
+                        "popularityByGeo": 0.8824859412139834
+                    }
+                },
+                {
+                    "id": "50760086e4b0ff5ba595b2ee",
+                    "createdAt": 1349910662,
+                    "text": "See Erika! Always entertaining & fun. You won't be disappointed!",
+                    "type": "user",
+                    "canonicalUrl": "https:\/\/foursquare.com\/item\/50760086e4b0ff5ba595b2ee",
+                    "canonicalPath": "\/item\/50760086e4b0ff5ba595b2ee",
+                    "likes": {
+                        "count": 2,
+                        "groups": [],
+                        "summary": "2 Likes"
+                    },
+                    "like": false,
+                    "logView": true,
+                    "saves": {
+                        "count": 0,
+                        "groups": []
+                    },
+                    "agreeCount": 2,
+                    "disagreeCount": 0,
+                    "venue": {
+                        "id": "4bce1871b6c49c74678a9691",
+                        "name": "HB Beauty Supply & Salon",
+                        "location": {
+                            "address": "10090 Adams Ave",
+                            "crossStreet": "Brookhurst St",
+                            "lat": 33.670057371513956,
+                            "lng": -117.95240064257067,
+                            "labeledLatLngs": [
+                                {
+                                    "label": "display",
+                                    "lat": 33.670057371513956,
+                                    "lng": -117.95240064257067
+                                }
+                            ],
+                            "postalCode": "92646",
+                            "cc": "US",
+                            "city": "Huntington Beach",
+                            "state": "CA",
+                            "country": "United States",
+                            "contextLine": "Huntington Beach, United States",
+                            "contextGeoId": 72057594043286641,
+                            "formattedAddress": [
+                                "<span itemprop=\"streetAddress\">10090 Adams Ave<\/span> (Brookhurst St)",
+                                "<span itemprop=\"addressLocality\">Huntington Beach<\/span>, <span itemprop=\"addressRegion\">CA<\/span> <span itemprop=\"postalCode\">92646<\/span>",
+                                "United States"
+                            ]
+                        },
+                        "canonicalUrl": "https:\/\/foursquare.com\/v\/hb-beauty-supply--salon\/4bce1871b6c49c74678a9691",
+                        "canonicalPath": "\/v\/hb-beauty-supply--salon\/4bce1871b6c49c74678a9691",
+                        "categories": [
+                            {
+                                "id": "4bf58dd8d48988d110951735",
+                                "name": "Hair Salon",
+                                "pluralName": "Hair Salons",
+                                "shortName": "Hair Salon",
+                                "icon": {
+                                    "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/salon_barber_",
+                                    "mapPrefix": "https:\/\/ss3.4sqi.net\/img\/categories_map\/shops\/salon_barber",
+                                    "suffix": ".png"
+                                },
+                                "primary": true
+                            }
+                        ],
+                        "verified": true,
+                        "stats": {
+                            "tipCount": 20,
+                            "usersCount": 98,
+                            "checkinsCount": 798
+                        },
+                        "urlSig": "AoYOXhQbdfZRTKJGGRW8mxeIW3k=",
+                        "hasMenu": true,
+                        "rating": 8.6,
+                        "ratingColor": "73CF42",
+                        "ratingSignals": 18,
+                        "menu": {
+                            "type": "Services",
+                            "label": "Services",
+                            "anchor": "View Services",
+                            "url": "https:\/\/foursquare.com\/v\/hb-beauty-supply--salon\/4bce1871b6c49c74678a9691\/menu",
+                            "mobileUrl": "https:\/\/foursquare.com\/v\/4bce1871b6c49c74678a9691\/device_menu",
+                            "canonicalPath": "\/v\/hb-beauty-supply--salon\/4bce1871b6c49c74678a9691\/menu"
+                        },
+                        "allowMenuUrlEdit": true,
+                        "beenHere": {
+                            "lastCheckinExpiredAt": 0
+                        },
+                        "photos": {
+                            "count": 0,
+                            "groups": [
+                                {
+                                    "type": "venue",
+                                    "name": "Venue photos",
+                                    "count": 0,
+                                    "items": [
+                                        {
+                                            "id": "55859d8d498eedca071fbc74",
+                                            "createdAt": 1434819981,
+                                            "prefix": "https:\/\/fastly.4sqi.net\/img\/general\/",
+                                            "suffix": "\/46145094__PtlsAYqWl_DNxFb7XLQxLoUbOsAP7i5KBN_711IJlM.jpg",
+                                            "width": 640,
+                                            "height": 640,
+                                            "visibility": "public"
+                                        },
+                                        {
+                                            "id": "533da92a498e1f824294eb6f",
+                                            "createdAt": 1396549930,
+                                            "prefix": "https:\/\/fastly.4sqi.net\/img\/general\/",
+                                            "suffix": "\/68732419_NUViOc_khw6Ay4alS7ew9sa0BZMdrYw_JyOdbMTCqbE.jpg",
+                                            "width": 720,
+                                            "height": 960,
+                                            "visibility": "public"
+                                        },
+                                        {
+                                            "id": "533da8fb498ecb65dbd01f0b",
+                                            "createdAt": 1396549883,
+                                            "prefix": "https:\/\/fastly.4sqi.net\/img\/general\/",
+                                            "suffix": "\/68732419_9MZtmC9zaB-N3NHhgrhGHlYrxY1As2amjQSuOtCERtc.jpg",
+                                            "width": 720,
+                                            "height": 960,
+                                            "visibility": "public"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "storeId": "",
+                        "createdAt": 1271797873,
+                        "popularityByGeo": 0.9070851111610151
+                    }
+                },
+                {
+                    "id": "4f00a5909a520dfd671490ba",
+                    "createdAt": 1325442448,
+                    "text": "White Roll is my favorite & Spicy Tuna on crispy rice with a side of spicy mayo...mmmm! Can't go wrong with a place that gives out saki on the house ;)",
+                    "entities": [
+                        {
+                            "indices": [
+                                28,
+                                38
+                            ],
+                            "id": "52cc5705498e1fec609203f6",
+                            "type": "tip_taste_match",
+                            "text": "spicy tuna"
+                        },
+                        {
+                            "indices": [
+                                42,
+                                53
+                            ],
+                            "id": "52cc5704498efe3160ac4a20",
+                            "type": "tip_taste_match",
+                            "text": "crispy rice"
+                        },
+                        {
+                            "indices": [
+                                69,
+                                74
+                            ],
+                            "id": "5310f8644b90130f9453ccdd",
+                            "type": "tip_taste_match",
+                            "text": "spicy food"
+                        },
+                        {
+                            "indices": [
+                                131,
+                                135
+                            ],
+                            "id": "52e132bd498e4ca39c4f831b",
+                            "type": "tip_taste_match",
+                            "text": "sake"
+                        }
+                    ],
+                    "type": "user",
+                    "canonicalUrl": "https:\/\/foursquare.com\/item\/4f00a5909a520dfd671490ba",
+                    "canonicalPath": "\/item\/4f00a5909a520dfd671490ba",
+                    "likes": {
+                        "count": 2,
+                        "groups": [],
+                        "summary": "2 Likes"
+                    },
+                    "like": false,
+                    "logView": true,
+                    "saves": {
+                        "count": 0,
+                        "groups": []
+                    },
+                    "agreeCount": 2,
+                    "disagreeCount": 0,
+                    "venue": {
+                        "id": "4a4faa7cf964a52091af1fe3",
+                        "name": "Sushi on Fire",
+                        "location": {
+                            "address": "301 Main St",
+                            "crossStreet": "At Olive",
+                            "lat": 33.65924847549354,
+                            "lng": -117.99996601965111,
+                            "labeledLatLngs": [
+                                {
+                                    "label": "display",
+                                    "lat": 33.65924847549354,
+                                    "lng": -117.99996601965111
+                                }
+                            ],
+                            "postalCode": "92648",
+                            "cc": "US",
+                            "neighborhood": "Downtown Huntington Beach",
+                            "city": "Huntington Beach",
+                            "state": "CA",
+                            "country": "United States",
+                            "contextLine": "Huntington Beach, United States",
+                            "contextGeoId": 72057594043286641,
+                            "formattedAddress": [
+                                "<span itemprop=\"streetAddress\">301 Main St<\/span> (At Olive)",
+                                "<span itemprop=\"addressLocality\">Huntington Beach<\/span>, <span itemprop=\"addressRegion\">CA<\/span> <span itemprop=\"postalCode\">92648<\/span>",
+                                "United States"
+                            ]
+                        },
+                        "canonicalUrl": "https:\/\/foursquare.com\/v\/sushi-on-fire\/4a4faa7cf964a52091af1fe3",
+                        "canonicalPath": "\/v\/sushi-on-fire\/4a4faa7cf964a52091af1fe3",
+                        "categories": [
+                            {
+                                "id": "4bf58dd8d48988d1d2941735",
+                                "name": "Sushi Restaurant",
+                                "pluralName": "Sushi Restaurants",
+                                "shortName": "Sushi",
+                                "icon": {
+                                    "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/sushi_",
+                                    "mapPrefix": "https:\/\/ss3.4sqi.net\/img\/categories_map\/food\/sushi",
+                                    "suffix": ".png"
+                                },
+                                "primary": true
+                            }
+                        ],
+                        "verified": false,
+                        "stats": {
+                            "tipCount": 77,
+                            "usersCount": 2896,
+                            "checkinsCount": 5560
+                        },
+                        "urlSig": "mxnjc8JMi7YkuAm50kjvfYxRJSQ=",
+                        "price": {
+                            "tier": 2,
+                            "message": "Moderate",
+                            "currency": "$"
+                        },
+                        "hasMenu": true,
+                        "rating": 8.5,
+                        "ratingColor": "73CF42",
+                        "ratingSignals": 243,
+                        "menu": {
+                            "type": "Menu",
+                            "label": "Menu",
+                            "anchor": "View Menu",
+                            "url": "https:\/\/foursquare.com\/v\/sushi-on-fire\/4a4faa7cf964a52091af1fe3\/menu",
+                            "mobileUrl": "https:\/\/foursquare.com\/v\/4a4faa7cf964a52091af1fe3\/device_menu",
+                            "canonicalPath": "\/v\/sushi-on-fire\/4a4faa7cf964a52091af1fe3\/menu"
+                        },
+                        "allowMenuUrlEdit": true,
+                        "beenHere": {
+                            "lastCheckinExpiredAt": 0
+                        },
+                        "photos": {
+                            "count": 0,
+                            "groups": [
+                                {
+                                    "type": "venue",
+                                    "name": "Venue photos",
+                                    "count": 0,
+                                    "items": [
+                                        {
+                                            "id": "64b4aa13170fb223dff2e436",
+                                            "createdAt": 1689561619,
+                                            "prefix": "https:\/\/fastly.4sqi.net\/img\/general\/",
+                                            "suffix": "\/542370556_E6FSCty32vvHrK0wvxPzLguYPXFJXZjm2s9GjJGcdwY.jpg",
+                                            "width": 1920,
+                                            "height": 1440,
+                                            "visibility": "public"
+                                        },
+                                        {
+                                            "id": "64b4aa12794b023918c3521d",
+                                            "createdAt": 1689561618,
+                                            "prefix": "https:\/\/fastly.4sqi.net\/img\/general\/",
+                                            "suffix": "\/542370556_43hpZgAlL-dcUPW2D9dt_MILcxaFkRQewCIwhqiMfcQ.jpg",
+                                            "width": 1440,
+                                            "height": 1920,
+                                            "visibility": "public"
+                                        },
+                                        {
+                                            "id": "62e5c501af5ac85f6d740b56",
+                                            "createdAt": 1659225345,
+                                            "prefix": "https:\/\/fastly.4sqi.net\/img\/general\/",
+                                            "suffix": "\/5080507__Na_BrlRbMvFgYIGhrR34NkXtWiTNzJd1vsUiD42RKU.jpg",
+                                            "width": 1440,
+                                            "height": 1920,
+                                            "visibility": "public"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "createdAt": 1246734972,
+                        "popularityByGeo": 0.9645744441949248
+                    }
+                },
+                {
+                    "id": "4effd5d15c5c51dd2e6d72b0",
+                    "createdAt": 1325389265,
+                    "text": "Try the albacore supreme roll - Yum!",
+                    "entities": [
+                        {
+                            "indices": [
+                                8,
+                                16
+                            ],
+                            "id": "52db1e25498e43830a25f3bf",
+                            "type": "tip_taste_match",
+                            "text": "albacore"
+                        }
+                    ],
+                    "type": "user",
+                    "canonicalUrl": "https:\/\/foursquare.com\/item\/4effd5d15c5c51dd2e6d72b0",
+                    "canonicalPath": "\/item\/4effd5d15c5c51dd2e6d72b0",
+                    "likes": {
+                        "count": 0,
+                        "groups": []
+                    },
+                    "like": false,
+                    "logView": true,
+                    "saves": {
+                        "count": 0,
+                        "groups": []
+                    },
+                    "agreeCount": 0,
+                    "disagreeCount": 0,
+                    "justification": {
+                        "message": "Been here 10+ times",
+                        "justificationType": "visits"
+                    },
+                    "venue": {
+                        "id": "4afe439cf964a520022f22e3",
+                        "name": "Kobe Sushi",
+                        "location": {
+                            "address": "10585 Slater Ave #8AB",
+                            "crossStreet": "at Ward St.",
+                            "lat": 33.709538373878075,
+                            "lng": -117.94430396783532,
+                            "labeledLatLngs": [
+                                {
+                                    "label": "display",
+                                    "lat": 33.709538373878075,
+                                    "lng": -117.94430396783532
+                                },
+                                {
+                                    "label": "entrance",
+                                    "lat": 33.709559,
+                                    "lng": -117.944114
+                                }
+                            ],
+                            "postalCode": "92708",
+                            "cc": "US",
+                            "city": "Fountain Valley",
+                            "state": "CA",
+                            "country": "United States",
+                            "contextLine": "Fountain Valley, United States",
+                            "contextGeoId": 72057594043278143,
+                            "formattedAddress": [
+                                "<span itemprop=\"streetAddress\">10585 Slater Ave #8AB<\/span> (at Ward St.)",
+                                "<span itemprop=\"addressLocality\">Fountain Valley<\/span>, <span itemprop=\"addressRegion\">CA<\/span> <span itemprop=\"postalCode\">92708<\/span>",
+                                "United States"
+                            ]
+                        },
+                        "canonicalUrl": "https:\/\/foursquare.com\/v\/kobe-sushi\/4afe439cf964a520022f22e3",
+                        "canonicalPath": "\/v\/kobe-sushi\/4afe439cf964a520022f22e3",
+                        "categories": [
+                            {
+                                "id": "4bf58dd8d48988d1d2941735",
+                                "name": "Sushi Restaurant",
+                                "pluralName": "Sushi Restaurants",
+                                "shortName": "Sushi",
+                                "icon": {
+                                    "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/sushi_",
+                                    "mapPrefix": "https:\/\/ss3.4sqi.net\/img\/categories_map\/food\/sushi",
+                                    "suffix": ".png"
+                                },
+                                "primary": true
+                            }
+                        ],
+                        "verified": false,
+                        "stats": {
+                            "tipCount": 10,
+                            "usersCount": 237,
+                            "checkinsCount": 681
+                        },
+                        "price": {
+                            "tier": 2,
+                            "message": "Moderate",
+                            "currency": "$"
+                        },
+                        "rating": 8.4,
+                        "ratingColor": "73CF42",
+                        "ratingSignals": 26,
+                        "allowMenuUrlEdit": true,
+                        "beenHere": {
+                            "lastCheckinExpiredAt": 0
+                        },
+                        "photos": {
+                            "count": 0,
+                            "groups": [
+                                {
+                                    "type": "venue",
+                                    "name": "Venue photos",
+                                    "count": 0,
+                                    "items": [
+                                        {
+                                            "id": "5c4ead9616ef67002c63baa7",
+                                            "createdAt": 1548660118,
+                                            "prefix": "https:\/\/fastly.4sqi.net\/img\/general\/",
+                                            "suffix": "\/61452607_X5O4mYQDE9TlDiR0HJEQIS44yGASQ9tk4IiD3sYMPX4.jpg",
+                                            "width": 1440,
+                                            "height": 1920,
+                                            "visibility": "public"
+                                        },
+                                        {
+                                            "id": "5c4ead9366f3cd00342b1ef7",
+                                            "createdAt": 1548660115,
+                                            "prefix": "https:\/\/fastly.4sqi.net\/img\/general\/",
+                                            "suffix": "\/61452607_lINilpkE2B0rCa64pyxIt4FydLcwLuodpcVFw_vyk5w.jpg",
+                                            "width": 1440,
+                                            "height": 1920,
+                                            "visibility": "public"
+                                        },
+                                        {
+                                            "id": "5c4e7cd1d0a149002c34c7df",
+                                            "createdAt": 1548647633,
+                                            "prefix": "https:\/\/fastly.4sqi.net\/img\/general\/",
+                                            "suffix": "\/61452607_SOIB1k_1QlWsgFsC8lr08IJpYcrbxOH5KgIz9yBAWq8.jpg",
+                                            "width": 1920,
+                                            "height": 1440,
+                                            "visibility": "public"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "createdAt": 1258177436,
+                        "popularityByGeo": 0.8899598393574297
+                    }
+                },
+                {
+                    "id": "4e9f6547775ba9493a1baff0",
+                    "createdAt": 1319068999,
+                    "text": "7th floor facing the ocean - spectacular view!",
+                    "entities": [
+                        {
+                            "indices": [
+                                41,
+                                45
+                            ],
+                            "id": "52cb360d498e49ae1f58c8d7",
+                            "type": "tip_taste_match",
+                            "text": "scenic views"
+                        }
+                    ],
+                    "type": "user",
+                    "canonicalUrl": "https:\/\/foursquare.com\/item\/4e9f6547775ba9493a1baff0",
+                    "canonicalPath": "\/item\/4e9f6547775ba9493a1baff0",
+                    "likes": {
+                        "count": 0,
+                        "groups": []
+                    },
+                    "like": false,
+                    "logView": true,
+                    "saves": {
+                        "count": 0,
+                        "groups": []
+                    },
+                    "agreeCount": 0,
+                    "disagreeCount": 0,
+                    "venue": {
+                        "id": "4a95b39cf964a520302420e3",
+                        "name": "Dream Inn Santa Cruz",
+                        "location": {
+                            "address": "175 West Cliff Drive",
+                            "lat": 36.961812,
+                            "lng": -122.026048,
+                            "labeledLatLngs": [
+                                {
+                                    "label": "display",
+                                    "lat": 36.961812,
+                                    "lng": -122.026048
+                                }
+                            ],
+                            "postalCode": "95060",
+                            "cc": "US",
+                            "neighborhood": "Westside",
+                            "city": "Santa Cruz",
+                            "state": "CA",
+                            "country": "United States",
+                            "contextLine": "Santa Cruz, United States",
+                            "contextGeoId": 72057594043320988,
+                            "formattedAddress": [
+                                "<span itemprop=\"streetAddress\">175 West Cliff Drive<\/span>",
+                                "<span itemprop=\"addressLocality\">Santa Cruz<\/span>, <span itemprop=\"addressRegion\">CA<\/span> <span itemprop=\"postalCode\">95060<\/span>",
+                                "United States"
+                            ]
+                        },
+                        "canonicalUrl": "https:\/\/foursquare.com\/v\/dream-inn-santa-cruz\/4a95b39cf964a520302420e3",
+                        "canonicalPath": "\/v\/dream-inn-santa-cruz\/4a95b39cf964a520302420e3",
+                        "categories": [
+                            {
+                                "id": "4bf58dd8d48988d1fa931735",
+                                "name": "Hotel",
+                                "pluralName": "Hotels",
+                                "shortName": "Hotel",
+                                "icon": {
+                                    "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/travel\/hotel_",
+                                    "mapPrefix": "https:\/\/ss3.4sqi.net\/img\/categories_map\/travel\/hotel",
+                                    "suffix": ".png"
+                                },
+                                "primary": true
+                            }
+                        ],
+                        "verified": true,
+                        "stats": {
+                            "tipCount": 40,
+                            "usersCount": 2071,
+                            "checkinsCount": 4000
+                        },
+                        "urlSig": "L6exkDnraaP63WAxUFIxgeBJRS4=",
+                        "hasMenu": true,
+                        "rating": 8.9,
+                        "ratingColor": "73CF42",
+                        "ratingSignals": 146,
+                        "menu": {
+                            "type": "Prices",
+                            "label": "Prices",
+                            "anchor": "View Prices",
+                            "url": "https:\/\/foursquare.com\/v\/dream-inn-santa-cruz\/4a95b39cf964a520302420e3\/menu",
+                            "mobileUrl": "https:\/\/foursquare.com\/v\/4a95b39cf964a520302420e3\/device_menu",
+                            "canonicalPath": "\/v\/dream-inn-santa-cruz\/4a95b39cf964a520302420e3\/menu"
+                        },
+                        "allowMenuUrlEdit": true,
+                        "beenHere": {
+                            "lastCheckinExpiredAt": 0
+                        },
+                        "photos": {
+                            "count": 0,
+                            "groups": [
+                                {
+                                    "type": "venue",
+                                    "name": "Venue photos",
+                                    "count": 0,
+                                    "items": [
+                                        {
+                                            "id": "650a26e8001db70aca4a2c96",
+                                            "createdAt": 1695164136,
+                                            "prefix": "https:\/\/fastly.4sqi.net\/img\/general\/",
+                                            "suffix": "\/31395986_ckHaS4Ymjeen6f27BKRsN4IrxT0q-VQBSzEhXUa5nxw.jpg",
+                                            "width": 1920,
+                                            "height": 1440,
+                                            "visibility": "public"
+                                        },
+                                        {
+                                            "id": "64ebaf920398c97ab5fbc6e5",
+                                            "createdAt": 1693167506,
+                                            "prefix": "https:\/\/fastly.4sqi.net\/img\/general\/",
+                                            "suffix": "\/19426346_PVXe4lLV2e7FK3wj_ajPHyHMJxkYx2ctjo_UdKX_MjU.jpg",
+                                            "width": 1440,
+                                            "height": 1920,
+                                            "visibility": "public"
+                                        },
+                                        {
+                                            "id": "63bcf37b65573100f19eea0c",
+                                            "createdAt": 1673327483,
+                                            "prefix": "https:\/\/fastly.4sqi.net\/img\/general\/",
+                                            "suffix": "\/497874679_uRFEBnHrv0JfwsNT7tizxfYM6Z2O2J7SIpDp4LbffBM.jpg",
+                                            "width": 1920,
+                                            "height": 1440,
+                                            "visibility": "public"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "venuePage": {
+                            "id": "422408629"
+                        },
+                        "storeId": "",
+                        "createdAt": 1251324828,
+                        "popularityByGeo": 0.9907826902046555
+                    }
+                },
+                {
+                    "id": "4e4d91bea809b5520420ad27",
+                    "createdAt": 1313706430,
+                    "text": "Get the Wings and Irish Nachos!  And say Hi to my dad - his pic is hanging in the side room - the old guy with the beard! Have a drink with him :)",
+                    "entities": [
+                        {
+                            "indices": [
+                                8,
+                                13
+                            ],
+                            "id": "52cb360d498e49ae1f58c90f",
+                            "type": "tip_taste_match",
+                            "text": "chicken wings"
+                        },
+                        {
+                            "indices": [
+                                18,
+                                30
+                            ],
+                            "id": "52cc5708498ec8fe9f4820ee",
+                            "type": "tip_taste_match",
+                            "text": "Irish nachos"
+                        }
+                    ],
+                    "type": "user",
+                    "canonicalUrl": "https:\/\/foursquare.com\/item\/4e4d91bea809b5520420ad27",
+                    "canonicalPath": "\/item\/4e4d91bea809b5520420ad27",
+                    "likes": {
+                        "count": 7,
+                        "groups": [],
+                        "summary": "7 Likes"
+                    },
+                    "like": false,
+                    "logView": true,
+                    "saves": {
+                        "count": 0,
+                        "groups": []
+                    },
+                    "agreeCount": 7,
+                    "disagreeCount": 0,
+                    "venue": {
+                        "id": "4a611a27f964a520dcc11fe3",
+                        "name": "Silky Sullivan's Restaurant & Irish Pub",
+                        "location": {
+                            "address": "10201 Slater Ave",
+                            "lat": 33.709336042502244,
+                            "lng": -117.95095435116295,
+                            "labeledLatLngs": [
+                                {
+                                    "label": "display",
+                                    "lat": 33.709336042502244,
+                                    "lng": -117.95095435116295
+                                },
+                                {
+                                    "label": "entrance",
+                                    "lat": 33.709229,
+                                    "lng": -117.950977
+                                }
+                            ],
+                            "postalCode": "92708",
+                            "cc": "US",
+                            "city": "Fountain Valley",
+                            "state": "CA",
+                            "country": "United States",
+                            "contextLine": "Fountain Valley, United States",
+                            "contextGeoId": 72057594043278143,
+                            "formattedAddress": [
+                                "<span itemprop=\"streetAddress\">10201 Slater Ave<\/span>",
+                                "<span itemprop=\"addressLocality\">Fountain Valley<\/span>, <span itemprop=\"addressRegion\">CA<\/span> <span itemprop=\"postalCode\">92708<\/span>",
+                                "United States"
+                            ]
+                        },
+                        "canonicalUrl": "https:\/\/foursquare.com\/v\/silky-sullivans-restaurant--irish-pub\/4a611a27f964a520dcc11fe3",
+                        "canonicalPath": "\/v\/silky-sullivans-restaurant--irish-pub\/4a611a27f964a520dcc11fe3",
+                        "categories": [
+                            {
+                                "id": "4bf58dd8d48988d11b941735",
+                                "name": "Pub",
+                                "pluralName": "Pubs",
+                                "shortName": "Pub",
+                                "icon": {
+                                    "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/nightlife\/pub_",
+                                    "mapPrefix": "https:\/\/ss3.4sqi.net\/img\/categories_map\/nightlife\/pub",
+                                    "suffix": ".png"
+                                },
+                                "primary": true
+                            }
+                        ],
+                        "verified": false,
+                        "stats": {
+                            "tipCount": 21,
+                            "usersCount": 1199,
+                            "checkinsCount": 3831
+                        },
+                        "urlSig": "4CD+WzGaYrapKZtC7aUG5v76WCU=",
+                        "price": {
+                            "tier": 2,
+                            "message": "Moderate",
+                            "currency": "$"
+                        },
+                        "hasMenu": true,
+                        "rating": 7.8,
+                        "ratingColor": "C5DE35",
+                        "ratingSignals": 95,
+                        "menu": {
+                            "type": "Menu",
+                            "label": "Menu",
+                            "anchor": "View Menu",
+                            "url": "https:\/\/foursquare.com\/v\/silky-sullivans-restaurant--irish-pub\/4a611a27f964a520dcc11fe3\/menu",
+                            "mobileUrl": "https:\/\/foursquare.com\/v\/4a611a27f964a520dcc11fe3\/device_menu",
+                            "canonicalPath": "\/v\/silky-sullivans-restaurant--irish-pub\/4a611a27f964a520dcc11fe3\/menu"
+                        },
+                        "allowMenuUrlEdit": true,
+                        "beenHere": {
+                            "lastCheckinExpiredAt": 0
+                        },
+                        "photos": {
+                            "count": 0,
+                            "groups": [
+                                {
+                                    "type": "venue",
+                                    "name": "Venue photos",
+                                    "count": 0,
+                                    "items": [
+                                        {
+                                            "id": "6382c753ec2fc37de773827d",
+                                            "createdAt": 1669515091,
+                                            "prefix": "https:\/\/fastly.4sqi.net\/img\/general\/",
+                                            "suffix": "\/11840778_8jG4W6ucEqWCGWguLwxcH0P1_aUBwhAN3sr_QpqAHGY.jpg",
+                                            "width": 1512,
+                                            "height": 2016,
+                                            "visibility": "public"
+                                        },
+                                        {
+                                            "id": "624d36fe9ff9fc11ecbe9772",
+                                            "createdAt": 1649227518,
+                                            "prefix": "https:\/\/fastly.4sqi.net\/img\/general\/",
+                                            "suffix": "\/13622039_95Wd8CljRytif0z4MglByje0FzxHsMfMtmRESXKy-QA.jpg",
+                                            "width": 1440,
+                                            "height": 1920,
+                                            "visibility": "public"
+                                        },
+                                        {
+                                            "id": "617df6609110ec44afc7a641",
+                                            "createdAt": 1635645024,
+                                            "prefix": "https:\/\/fastly.4sqi.net\/img\/general\/",
+                                            "suffix": "\/33496981_bt0Vh-Chr8Gw9O52c9C7gEvUP5O0Sp4txEfM9hL5o3I.jpg",
+                                            "width": 1440,
+                                            "height": 1920,
+                                            "visibility": "public"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "createdAt": 1247877671,
+                        "popularityByGeo": 0.9905622489959839
+                    }
+                },
+                {
+                    "id": "4e29c270b3adbf005bc08989",
+                    "createdAt": 1311359600,
+                    "text": "See Erika - she fun and amazing! :)",
+                    "type": "user",
+                    "canonicalUrl": "https:\/\/foursquare.com\/item\/4e29c270b3adbf005bc08989",
+                    "canonicalPath": "\/item\/4e29c270b3adbf005bc08989",
+                    "likes": {
+                        "count": 1,
+                        "groups": [],
+                        "summary": "1 Like"
+                    },
+                    "like": false,
+                    "logView": true,
+                    "saves": {
+                        "count": 0,
+                        "groups": []
+                    },
+                    "agreeCount": 1,
+                    "disagreeCount": 0,
+                    "justification": {
+                        "message": "Been here 5+ times",
+                        "justificationType": "visits"
+                    },
+                    "venue": {
+                        "id": "4ca63ecfa6e08cfa38c47894",
+                        "name": "The Style Lounge",
+                        "location": {
+                            "address": "17910 Magnolia St",
+                            "crossStreet": "at Talbert Ave",
+                            "lat": 33.7027165768162,
+                            "lng": -117.9706430685497,
+                            "labeledLatLngs": [
+                                {
+                                    "label": "display",
+                                    "lat": 33.7027165768162,
+                                    "lng": -117.9706430685497
+                                }
+                            ],
+                            "postalCode": "92708",
+                            "cc": "US",
+                            "city": "Fountain Valley",
+                            "state": "CA",
+                            "country": "United States",
+                            "contextLine": "Fountain Valley, United States",
+                            "contextGeoId": 72057594043278143,
+                            "formattedAddress": [
+                                "<span itemprop=\"streetAddress\">17910 Magnolia St<\/span> (at Talbert Ave)",
+                                "<span itemprop=\"addressLocality\">Fountain Valley<\/span>, <span itemprop=\"addressRegion\">CA<\/span> <span itemprop=\"postalCode\">92708<\/span>",
+                                "United States"
+                            ]
+                        },
+                        "canonicalUrl": "https:\/\/foursquare.com\/v\/the-style-lounge\/4ca63ecfa6e08cfa38c47894",
+                        "canonicalPath": "\/v\/the-style-lounge\/4ca63ecfa6e08cfa38c47894",
+                        "categories": [
+                            {
+                                "id": "4bf58dd8d48988d10c951735",
+                                "name": "Cosmetics Store",
+                                "pluralName": "Cosmetics Stores",
+                                "shortName": "Cosmetics",
+                                "icon": {
+                                    "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/beauty_cosmetic_",
+                                    "mapPrefix": "https:\/\/ss3.4sqi.net\/img\/categories_map\/shops\/beauty_cosmetic",
+                                    "suffix": ".png"
+                                },
+                                "primary": true
+                            }
+                        ],
+                        "verified": false,
+                        "stats": {
+                            "tipCount": 2,
+                            "usersCount": 31,
+                            "checkinsCount": 111
+                        },
+                        "allowMenuUrlEdit": true,
+                        "beenHere": {
+                            "lastCheckinExpiredAt": 0
+                        },
+                        "createdAt": 1285963471,
+                        "popularityByGeo": 0.8281124497991967
+                    }
+                }
+            ]
+        }
+    }
+}
